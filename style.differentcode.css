@@ -4,7 +4,7 @@ table {
 
 table th {
   text-align: left;
-  background-color:#3a6070
+  background-color:
   color:#FFF;
   padding: 4px 30px 4px 8px;
 }
@@ -15,5 +15,15 @@ table td {
 }
 
 table tr:nth-child(odd) td {
-  background-color: #e7edf0;
+  background-color
 }
+
+
+body {
+    background: url('backgroundimageII.jpg') no-repeat;
+    background-size: cover;
+    font-family: Arial;
+    color: white;
+
+
+  }

@@ -1,0 +1,10 @@
+.outerDiv {
+		Display: flex;
+}
+
+.prettyBox {
+background-color:#333742;
+Border:2px solid yellow;
+Color: white;
+Padding: 20px 20px;
+}
